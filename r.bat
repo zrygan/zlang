@@ -1,0 +1,1 @@
+gcc src/main.c src/interpreter.c src/hash.cpp -o a.exe -lstdc++

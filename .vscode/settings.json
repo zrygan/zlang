@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.xml": "html",
+        "*.svg": "html",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "unordered_map": "cpp",
+        "interpreter.h": "c",
+        "main.h": "c",
+        "hash_w.h": "c",
+        "commons.h": "c"
+    }
+}
